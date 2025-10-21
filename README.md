@@ -65,9 +65,9 @@ Thesis: *-------*
 ---
 
 ## 📫 Contact
-📧 Email: [your-email@example.com]  
+📧 Email: [techit.kha@gmail.com]  
 🔗 GitHub: [https://github.com/taechitpt](https://github.com/taechitpt)  
-🔗 LinkedIn: [ใส่ลิงก์ LinkedIn ของคุณ]  
+🔗 LinkedIn: [[techit.kha@gmail.com](https://www.linkedin.com/in/taechit-khathanyaakemongkol-2061a5337/)]  
 
 ---
 

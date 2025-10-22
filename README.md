@@ -58,9 +58,9 @@ Thesis: *-------*
 
 
 ## 🏅 Certificates
-- Data Science with Python – Coursera  
-- Machine Learning Specialization – Andrew Ng (DeepLearning.AI)  
-- Power BI for Business Intelligence – DataCamp  
+- Python for Data Science, AI & Development – Coursera [ดูภาพตัวอย่าง](https://drive.google.com/file/d/1yhW5Wkf7ViSJVGQo0GNJ6dJsH8SdpOpj/view?usp=drive_link)  
+- Databases and SQL for Data Science with Python – Coursera [ดูภาพตัวอย่าง](https://drive.google.com/file/d/1jVKPR2HJwHCzeegaDe3-YvgrH6gORjJu/view?usp=drive_link)  
+- Machine Learning, Data Science & AI Engineering with Python – Udemy [ดูภาพตัวอย่าง](https://drive.google.com/file/d/1b7TU7OlG_dOS3SPk1VN1YDhMpv3zXq1Z/view?usp=drive_link)   
 
 ---
 

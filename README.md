@@ -66,7 +66,7 @@ Thesis: *-------*
 
 ## 📫 Contact
 📧 Email: [techit.kha@gmail.com]  
-🔗 GitHub: [https://github.com/taechitpt](https://github.com/taechitpt)  
+🔗 GitHub: [[https://github.com/taechitpt](https://github.com/taechitpt)]  
 🔗 LinkedIn: [[techit.kha@gmail.com](https://www.linkedin.com/in/taechit-khathanyaakemongkol-2061a5337/)]  
 
 ---

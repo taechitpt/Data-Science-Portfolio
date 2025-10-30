@@ -31,7 +31,7 @@
 - Evaluated the model based on feature coefficients.
 - Visualized trends and presented key insights.
   
-**Result:**: Accuracy 65%
+**Result:** Accuracy 65%
 🔗 [ดูโค้ดที่นี่](./HeartDisease_Prediction)
 
 ---

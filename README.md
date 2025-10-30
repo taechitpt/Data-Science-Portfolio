@@ -1,11 +1,11 @@
 # Data-Science-Portfolio
 # 🧠 Taechit's Data Science Portfolio
-👋 สวัสดีครับ! ผมชื่อ **[เตชิต ค้าธัญเอกมงคล]** ชื่อเล่น: **[เปตอง]** 
+👋 Hello! My name's **Taechit Khathanyaakemongkol** Nickname: **Petong** 
 
 ---
 ## 🎓 Education
-**M.Sc. in Data Science**, [มหาวิทยาลัยธรรมศาสตร์] (ปีจบ: 2026)  
-Thesis: *-------*
+*M.Sc. in Data Science*, *Thammasat University (Expected to graduate : 2026)*  
+
 
 ---
 ## 🧰 Skills
@@ -13,7 +13,7 @@ Thesis: *-------*
 | Category | Tools / Skills |
 |-----------|----------------|
 | **Programming** | Python, SQL, R,|
-| **Libraries** | pandas, numpy, scikit-learn, matplotlib, seaborn, ggplot2 |
+| **Libraries** | Pandas, Numpy, Scikit-learn, Matplotlib, Seaborn, ggplot2 |
 | **ML / AI** | Regression, Classification, Clustering, NLP, Neural Networks, Association Rule Mining  |
 | **Visualization** | Power BI|
 | **Tools** | RapidMiner |
@@ -22,14 +22,16 @@ Thesis: *-------*
 
 ## 🚀 Projects
 
-### 📊 1. Heart Disease Prediction
-**Tools:** Python, Pandas, Scikit-learn  
-**Goal:** สร้างโมเดล Logistic Regression เพื่อทำนายความเสี่ยงโรคหัวใจ  
+### 📊 1. Predicting factors contributing to heart attacks  
+**Tools:**: Python (Pandas, Matplotlib, Sckit-learn)
+**Goal:**: Evaluation of a logistic regression model for predicting heart attack factors using kaggle dataset. 
 **Process:**
-- ทำ Data Cleaning และ Feature Engineering  
-- เทรนโมเดลและปรับพารามิเตอร์ด้วย GridSearchCV  
-- ประเมินผลด้วย Accuracy, ROC-AUC  
-**Result:** Accuracy 88%, วิเคราะห์ feature สำคัญด้วย SHAP  
+- Cleaned and transformed raw data from CSV files.  
+- Built predictive model using scikit-learn. 
+- Evaluated the model based on feature coefficients.
+- Visualized trends and presented key insights.
+  
+**Result:**: Accuracy 65%
 🔗 [ดูโค้ดที่นี่](./HeartDisease_Prediction)
 
 ---

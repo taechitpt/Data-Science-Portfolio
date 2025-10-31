@@ -23,15 +23,15 @@
 ## 🚀 Projects
 
 ### 📊 1. Predicting factors contributing to heart attacks  
-**Tools:**: Python (Pandas, Matplotlib, Sckit-learn)
-**Goal:**: Evaluation of a logistic regression model for predicting heart attack factors using kaggle dataset. 
+**Tools:** Python (Pandas, Matplotlib, Sckit-learn)
+**Goal:** Evaluation of a logistic regression model for predicting heart attack factors using kaggle dataset. 
 **Process:**
 - Cleaned and transformed raw data from CSV files.  
 - Built predictive model using scikit-learn. 
 - Evaluated the model based on feature coefficients.
 - Visualized trends and presented key insights.
   
-**Result:** Accuracy 65%
+**Result:** Accuracy 82%
 
 🔗 ['Python code']
 ```python
@@ -72,13 +72,14 @@ plt.tight_layout()
 plt.show()
 ```
 
-### 💬 2. Sentiment Analysis on Product Reviews
-**Tools:** Python, TensorFlow, Keras, NLP  
-**Goal:** วิเคราะห์รีวิวสินค้าจากข้อความเพื่อจำแนกเป็นบวก/ลบ  
+### 💬 2. Trip Advisor Hotel Reviews
+**Tools:** RapidMiner (Text Mining, k-NN, Naive Bayes), Python (pandas, matplotlib)
+**Goal:** Sentiment Analysis of hotel reviews in relation to rating scores using the TripAdvisor dataset from kaggle.
 **Process:**
-- ทำ Text Cleaning (Tokenization, Stopwords Removal, Lemmatization)  
-- ใช้ Embedding + LSTM สร้างโมเดล  
-- ประเมินด้วย Confusion Matrix  
+- Performed text preprocessing (tokenization, stopword removal, stemming) and vectorization (TF-IDF).
+- Built a classification model (k-NN, Naive Bayes) to predict review ratings based on text features. 
+- Evaluated model performance using cross-validation and relevant metrics.
+- Visualized trends and presented key insights.
 **Result:** Accuracy 91%  
 🔗 [ดูโค้ดที่นี่](./Sentiment_Analysis)
 

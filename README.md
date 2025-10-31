@@ -42,7 +42,6 @@ import matplotlib.pyplot as plt
 from sklearn.model_selection import train_test_split
 from sklearn.metrics import accuracy_score, classification_report
 from sklearn.preprocessing import StandardScaler
-file_path = r'C:\Users\paton\Downloads\Medicaldataset.csv'
 df = pd.read_csv(file_path)
 
 df['Result'] = df['Result'].map({'negative':0,'positive':1})

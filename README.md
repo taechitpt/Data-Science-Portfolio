@@ -73,7 +73,7 @@ plt.show()
 ```
 
 ### 💬 2. Trip Advisor Hotel Reviews
-**Tools:** RapidMiner (Text Mining, k-NN, Naive Bayes), Python (pandas, matplotlib)
+**Tools:** RapidMiner (Text Mining, k-NN, Naive Bayes), Python (matplotlib)
 **Goal:** Sentiment Analysis of hotel reviews in relation to rating scores using the TripAdvisor dataset from kaggle.
 **Process:**
 - Performed text preprocessing (tokenization, stopword removal, stemming) and vectorization (TF-IDF).
@@ -87,7 +87,7 @@ plt.show()
 
 ---
 
-### 📈 3. Retail Sales Dashboard (Power BI)
+### 📈 3. Practical Report
 **Tools:** Power BI, Excel, SQL  
 **Goal:** สร้าง dashboard วิเคราะห์ยอดขายและแนวโน้มลูกค้า  
 **Highlight:**

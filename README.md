@@ -81,8 +81,9 @@ plt.show()
 - Evaluated clustering performance using Davies-Bouldin index and interpreted cluster characteristics.
 - Visualized trends and presented key insights.
   
-**Result:** Accuracy 91%  
-🔗 [ดูโค้ดที่นี่](./Sentiment_Analysis)
+**Result:** For the clustering phase, the k-Means algorithm with k = 3 yielded the lowest Davies-Bouldin index, successfully segmenting the data into three clusters. Cluster 1 mainly represents descriptive features of the hotel, while Clusters 2 and 3 represent positive and negative customer opinions, respectively. 
+
+🔗 [PROJECT REPORT](https://drive.google.com/file/d/1YeklW6qZqACHYq9q5ZXrlH1o_ljV9pUd/view?usp=drive_link)
 
 ---
 

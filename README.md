@@ -23,8 +23,10 @@
 ## 🚀 Projects
 
 ### 📊 1. Predicting factors contributing to heart attacks  
-**Tools:** Python (Pandas, Matplotlib, Sckit-learn)
+**Tools:** Python (Pandas, Matplotlib, Sckit-learn).
+
 **Goal:** Evaluation of a logistic regression model for predicting heart attack factors using kaggle dataset. 
+
 **Process:**
 - Cleaned and transformed raw data from CSV files.  
 - Built predictive model using scikit-learn. 
@@ -73,8 +75,10 @@ plt.show()
 ```
 
 ### 💬 2. Trip Advisor Hotel Reviews
-**Tools:** RapidMiner (Text Mining, k-NN, Naive Bayes), Python (matplotlib)
+**Tools:** RapidMiner (Text Mining, k-NN, Naive Bayes), Python (matplotlib).
+
 **Goal:** Sentiment Analysis of hotel reviews in relation to rating scores using the TripAdvisor dataset from kaggle.
+
 **Process:**
 - Performed text preprocessing (tokenization, stopword removal, stemming) and vectorization (TF-IDF).
 - Evaluated classification model (k-NN, Naive Bayes) using cross-validation and performance metrics. 

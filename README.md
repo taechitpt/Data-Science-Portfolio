@@ -93,15 +93,6 @@ plt.show()
 
 ---
 
-### 📈 3. Practical Report
-**Tools:** Power BI, Excel, SQL  
-**Goal:** สร้าง dashboard วิเคราะห์ยอดขายและแนวโน้มลูกค้า  
-**Highlight:**
-- Interactive dashboard พร้อม drill-down by region  
-- ใช้ DAX function เพื่อคำนวณ KPI  
-🔗 [ดูภาพตัวอย่าง](./Retail_Sales_Dashboard)
-
----
 
 
 ## 🏅 Certificates

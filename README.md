@@ -35,7 +35,7 @@
   
 **Result:** Accuracy 82%
 
-🔗 ['Python code']
+🔗 [Python code]
 ```python
 from sklearn.linear_model import LogisticRegression
 import pandas as pd
@@ -89,7 +89,7 @@ plt.show()
 - In the classification phase, the k-NN algorithm with k = 10 achieved the highest accuracy of 48.00%.
 - For the clustering phase, the k-Means algorithm with k = 3 yielded the lowest Davies-Bouldin index, successfully segmenting the data into three clusters. Cluster 1 mainly represents descriptive features of the hotel, while Clusters 2 and 3 represent positive and negative customer opinions, respectively.
 
-🔗 [PROJECT REPORT](https://drive.google.com/file/d/1YeklW6qZqACHYq9q5ZXrlH1o_ljV9pUd/view?usp=drive_link)
+🔗 [Trip Advisor Hotel Reviews - REPORT](https://drive.google.com/file/d/1YeklW6qZqACHYq9q5ZXrlH1o_ljV9pUd/view?usp=drive_link)
 
 ---
 

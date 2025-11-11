@@ -30,7 +30,7 @@
 **Process:**
 - Cleaned and transformed raw data from CSV files.  
 - Built predictive model using scikit-learn. 
-- Evaluated the model based on feature coefficients.
+- Evaluated the model and performance metrics.
 - Visualized trends and presented key insights.
   
 **Result:** Accuracy 82%

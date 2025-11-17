@@ -22,7 +22,7 @@
 
 ## 🚀 Projects
 
-### 📊 1. Risk Factors Contributing to Heart Attack
+### 📊 1. Risk factors contributing to heart attack                     
 **Tools:** Python (Pandas, Matplotlib, Sckit-learn).
 
 **Goal:** Evaluation of a logistic regression model for predicting heart attack factors using kaggle dataset. 
@@ -77,7 +77,7 @@ plt.tight_layout()
 plt.show()
 ```
 
-### 💬 2. Trip Advisor Hotel Reviews
+### 💬 2. Trip advisor hotel reviews
 **Tools:** RapidMiner (Text Mining, k-NN, Naive Bayes), Python (matplotlib).
 
 **Goal:** Sentiment Analysis of hotel reviews in relation to rating scores using the TripAdvisor dataset from kaggle.

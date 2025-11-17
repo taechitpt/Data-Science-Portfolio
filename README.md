@@ -33,7 +33,8 @@
 - Evaluated the model and performance metrics.
 - Visualized trends and presented key insights.
   
-**Result:** Accuracy 82%
+**Result:** - In this case, the logistic regression model achieved an accuracy of 82%.
+            - The risk of heart attack varies according to age, male sex, diastolic blood pressure, and heart rate.
 
 🔗 [Python code]
 ```python

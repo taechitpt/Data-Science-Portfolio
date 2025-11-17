@@ -80,7 +80,7 @@ plt.show()
 ### 💬 2. Trip advisor hotel reviews
 **Tools:** RapidMiner (Text Mining, k-NN, Naive Bayes), Python (matplotlib).
 
-**Goal:** Sentiment Analysis of hotel reviews in relation to rating scores using the TripAdvisor dataset from kaggle.
+**Goal:** Sentiment analysis of hotel reviews in relation to rating scores using the TripAdvisor dataset from kaggle.
 
 **Process:**
 - Performed text preprocessing (tokenization, stopword removal, stemming) and vectorization (TF-IDF).

@@ -1,6 +1,6 @@
 # Data-Science-Portfolio
 # 🧠 Taechit's Data Science Portfolio
-👋 Hello! My name's **Taechit Khathanyaakemongkol** Nickname: **Petong** 
+👋 Hello! My name's **Taechit Khathanyaakemongkol**, Nickname: **Petong** 
 
 ---
 ## 🎓 Education

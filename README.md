@@ -12,18 +12,18 @@
 
 | Category | Tools / Skills |
 |-----------|----------------|
-| **Programming** | Python, SQL, R,|
-| **Libraries** | Pandas, Numpy, Scikit-learn, Matplotlib, Seaborn, ggplot2 |
+| **Programming** | Python, SQL, R|
+| **Libraries** | Pandas, NumPy, scikit-learn, Matplotlib, Seaborn, ggplot2 |
 | **ML / AI** | Regression, Classification, Clustering, NLP, Neural Networks, Association Rule Mining  |
 | **Visualization** | Power BI|
 | **Tools** | RapidMiner |
 
 ---
 
-## 🚀 Projects
+## 🚀Academic Projects
 
 ### 📊 1. Risk factors contributing to heart attack                     
-**Tools:** Python (Pandas, Matplotlib, Sckit-learn).
+**Tools:** Python (Pandas, Matplotlib, sckit-learn).
 
 **Goal:** Evaluation of a logistic regression model for predicting heart attack factors using kaggle dataset. 
 

@@ -23,7 +23,7 @@
 ## 🚀Academic Projects
 
 ### 📊 1. Risk factors contributing to heart attack                     
-**Tools:** Python (Pandas, Matplotlib, sckit-learn(Regression Model)).
+**Tools:** Python (Pandas, Matplotlib, sckit-learn).
 
 **Goal:** Evaluation of a logistic regression model for predicting heart attack factors using kaggle dataset. 
 

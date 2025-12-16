@@ -83,6 +83,7 @@ plt.show()
 **Goal:** Sentiment analysis of hotel reviews in relation to rating scores using the TripAdvisor dataset from kaggle.
 
 **Process:**
+- Data exploration of TripAdvisor hotel reviews. 
 - Performed text preprocessing (tokenization, stopword removal, stemming) and vectorization (TF-IDF).
 - Evaluated classification model (k-NN, Naive Bayes) using cross-validation and performance metrics. 
 - Evaluated clustering performance using Davies-Bouldin index and interpreted cluster characteristics.

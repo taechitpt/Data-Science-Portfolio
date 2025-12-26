@@ -76,7 +76,7 @@ plt.show()
 ```
 
 ### 💬 2. Trip advisor hotel reviews
-**Tools:** RapidMiner (Text Analytics(Tokenization, Stopword Removal, Stemming, TF-IDF, Sentiment Analysis), Machine Learning(k-NN, Naive Bayes, k-Mean)).
+**Tools:** RapidMiner (Text Analytics, Classification, Clustering).
 
 **Goal:** Sentiment analysis of hotel reviews in relation to rating scores using the TripAdvisor dataset from kaggle.
 

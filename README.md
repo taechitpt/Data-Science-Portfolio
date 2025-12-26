@@ -28,11 +28,8 @@
 **Goal:** Evaluation of a logistic regression model for predicting heart attack factors using kaggle dataset. 
 
 **Process:**
-- Cleaned and transformed raw data from CSV files.  
-- Built predictive model using scikit-learn. 
-- Evaluated the model and performance metrics.
-- Visualized trends and presented key insights.
-  
+- Developed and evaluated a logistic regression model to identify key risk factors associated with heart attacks using a public healthcare dataset.
+- Achieved strong predictive performance through feature selection and model evaluation, supporting data-driven health insights.
 **Result:** 
 - In this case, the logistic regression model achieved an accuracy of 82%.
 - The risk of heart attack varies according to age, male sex, diastolic blood pressure, and heart rate.
@@ -83,11 +80,10 @@ plt.show()
 **Goal:** Sentiment analysis of hotel reviews in relation to rating scores using the TripAdvisor dataset from kaggle.
 
 **Process:**
-- Data exploration of TripAdvisor hotel reviews in dataset. 
-- Performed text preprocessing (tokenization, stopword removal, stemming) and vectorization (TF-IDF).
-- Evaluated classification model (k-NN, Naive Bayes) using cross-validation and performance metrics. 
-- Evaluated clustering performance using Davies-Bouldin index and interpreted cluster characteristics.
-- Visualized trends and presented key insights.
+- Conducted sentiment analysis on hotel reviews to examine the relationship between customer sentiment and rating scores.
+- Built and evaluated supervised learning models (k-NN, Naive Bayes) and performed customer segmentation using clustering techniques.
+- Delivered actionable insights through data visualization and interpretation of sentiment-driven patterns.
+
   
 **Result:** 
 - For the clustering phase, the k-Means algorithm with k = 3 yielded the lowest Davies-Bouldin index, successfully segmenting the data into three clusters. Cluster 1 mainly represents descriptive features of the hotel, while Clusters 2 and 3 represent positive and negative customer opinions, respectively.

@@ -30,6 +30,7 @@
 **Process:**
 - Developed and evaluated a logistic regression model to identify key risk factors associated with heart attacks using a public healthcare dataset.
 - Achieved strong predictive performance through feature selection and model evaluation, supporting data-driven health insights.
+  
 **Result:** 
 - In this case, the logistic regression model achieved an accuracy of 82%.
 - The risk of heart attack varies according to age, male sex, diastolic blood pressure, and heart rate.

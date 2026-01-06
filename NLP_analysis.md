@@ -1,5 +1,5 @@
 ## Sentiment Analysis 
-- Sentiment analysis was performed using the TextBlob library to evaluate sentiment polarity scores.
+- Sentiment analysis was performed using the TextBlob and VADER librarys to evaluate sentiment polarity scores.
  ```python
 sentiment_1 = "I absolutely love this product; it exceeded my expectations."
 sentiment_2 = "The service was fast and the staff were very friendly."
@@ -8,9 +8,14 @@ sentiment_4 = "The food was cold and didn’t taste very good."
 sentiment_5 = "I was disappointed because the delivery arrived much later than promised."
 
 from textblob import TextBlob
-# Example of setiment score code
+from vaderSentiment.vaderSentiment import SentimentIntensityAnalyzer
+# Example of setiment score code using TextBlob
 sentiment_1_score = TextBlob(sentiment_1)
 print(sentiment_1_score.sentiment.polarity)
 sentiment_2_score = TextBlob(sentiment_2)
 print(sentiment_2_score.sentiment.polarity)
 
+# Example of setiment score code using VADER
+vader_sentiment = SentimentIntensityAnalyzer()
+print (vader_sentiment.polarity_scores(sentiment_1))
+print (vader_sentiment.polarity_scores(sentiment_2))

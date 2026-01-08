@@ -48,7 +48,7 @@ count = df['vander_sentiment_label'].value_counts()
 plt.bar(count.index,count.values)
 ```
 ------------------------------------------------------------------------------
-*-🖥 Building a Text Classification Model*
+*-🖥 Building a Text Classification Model.*
 - ***Goal***: To classify texts using a logistic model to predict positive and negative sentiment categories through NLP techniques.
 - ***Result***: The model achieved an accuracy of 66%.
 ```python

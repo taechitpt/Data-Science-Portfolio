@@ -1,4 +1,4 @@
-## Sentiment Analysis 
+## NLP Analysis_Python
 *- 💬 Sentiment analysis was performed using the TextBlob and VADER librarys to evaluate sentiment polarity scores.*
  ```python
 sentiment_1 = "I absolutely love this product; it exceeded my expectations."

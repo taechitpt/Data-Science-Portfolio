@@ -20,9 +20,9 @@
 
 ---
 
-## 🚀Academic Projects
+## 🚀Personal Projects
 
-### 📊 1. Risk factors contributing to heart attack                     
+### 📊 1. Risk Factors Contributing to Heart Attack                        
 **Tools:** Python (Pandas, Matplotlib, sckit-learn).
 
 **Goal:** Evaluation of a logistic regression model for predicting heart attack factors using kaggle dataset. 
@@ -75,7 +75,7 @@ plt.tight_layout()
 plt.show()
 ```
 
-### 💬 2. Trip advisor hotel reviews
+### 💬 2. Trip Advisor Hotel Reviews
 **Tools:** RapidMiner (Text Analytics, Classification, Clustering).
 
 **Goal:** Sentiment analysis of hotel reviews in relation to rating scores using the TripAdvisor dataset from kaggle.
@@ -85,11 +85,27 @@ plt.show()
 - Built and evaluated supervised learning models (k-NN, Naive Bayes) and performed customer segmentation using clustering techniques.
 - Delivered actionable insights through data visualization and interpretation of sentiment-driven patterns.
 
-  
 **Result:** 
 - For the clustering phase, the k-Means algorithm with k = 3 yielded the lowest Davies-Bouldin index, successfully segmenting the data into three clusters. Cluster 1 mainly represents descriptive features of the hotel, while Clusters 2 and 3 represent positive and negative customer opinions, respectively.
 
 🔗 [Trip Advisor Hotel Reviews - REPORT](https://drive.google.com/file/d/1YeklW6qZqACHYq9q5ZXrlH1o_ljV9pUd/view?usp=drive_link)
+
+
+
+
+###  🖥 3. Sentiment Analysis Model Deployment
+**Tools:** Python (scikit-learn, streamlit), HuggingFace Spaces
+**Goal:** Develop and deploy a Logistic Regression model for text sentiment classification.
+**Process:**
+- Developed NLP pipeline: preprocessing, vectorization (CountVectorizer), model training.
+- Evaluated model performance and optimized features.
+- Deployed model as a web service using Streamlit on HuggingFace Spaces.
+
+**Result:** 
+- Achieving 66% accuracy of classification model.
+
+🔗 [Demo: Sentiment Classification App](https://huggingface.co/spaces/taechitpt/sentiment_analysis_app)
+
 
 ---
 

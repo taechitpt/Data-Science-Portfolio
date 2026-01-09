@@ -95,7 +95,9 @@ plt.show()
 
 ###  🖥 3. Sentiment Analysis Model Deployment
 **Tools:** Python (scikit-learn, streamlit), HuggingFace Spaces
+
 **Goal:** Develop and deploy a Logistic Regression model for text sentiment classification.
+
 **Process:**
 - Developed NLP pipeline: preprocessing, vectorization (CountVectorizer), model training.
 - Evaluated model performance and optimized features.

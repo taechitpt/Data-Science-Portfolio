@@ -14,7 +14,7 @@
 |-----------|----------------|
 | **Programming** | Python, SQL, R|
 | **Libraries** | Pandas, NumPy, scikit-learn, Matplotlib, Seaborn, ggplot2 |
-| **ML / AI** | Regression, Classification, Clustering, Decision Tree, Neural Networks, Association Rule Mining, NLP(Text Analytics)|
+| **ML / AI** | Regression, Classification, Clustering, Decision Tree, Neural Networks, Association Rule Mining, NLP|
 | **Visualization** | Excel, Power BI|
 | **Tools** | RapidMiner |
 

@@ -13,7 +13,7 @@
 | Category | Tools / Skills |
 |-----------|----------------|
 | **Programming** | Python, SQL, R|
-| **Libraries** | Pandas, NumPy, scikit-learn, Matplotlib, Seaborn, ggplot2 |
+| **Libraries** | Pandas, NumPy, scikit-learn, Matplotlib, Seaborn, ggplot2, nltk |
 | **ML / AI** | Regression, Classification, Clustering, Decision Tree, Neural Networks, Association Rule Mining, NLP|
 | **Visualization** | Excel, Power BI|
 | **Tools** | RapidMiner |
@@ -22,7 +22,7 @@
 
 ## 🚀Personal Projects
 
-### 📊 1. Risk Factors Contributing to Heart Attack                        
+### 📊 1. Risk Factors Contributing to Heart Attack (Academic Project)                       
 **Tools:** Python (Pandas, Matplotlib, sckit-learn).
 
 **Goal:** Evaluation of a logistic regression model for predicting heart attack factors using kaggle dataset. 
@@ -75,7 +75,7 @@ plt.tight_layout()
 plt.show()
 ```
 
-### 💬 2. Trip Advisor Hotel Reviews
+### 💬 2. Trip Advisor Hotel Reviews (Academic Project)
 **Tools:** RapidMiner (Text Analytics, Classification, Clustering).
 
 **Goal:** Sentiment analysis of hotel reviews in relation to rating scores using the TripAdvisor dataset from kaggle.

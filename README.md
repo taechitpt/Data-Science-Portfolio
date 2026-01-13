@@ -102,7 +102,9 @@ plt.show()
 - Developed NLP pipeline: preprocessing, vectorization (CountVectorizer), model training.
 - Evaluated model performance and optimized features.
 - Deployed model as a web service using Streamlit on HuggingFace Spaces.
-
+  
+**Result:** 
+- Achieved an accuracy of 90%.
 
 🔗 [Python code]
 ```python

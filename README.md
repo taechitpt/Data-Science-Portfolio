@@ -103,8 +103,6 @@ plt.show()
 - Evaluated model performance and optimized features.
 - Deployed model as a web service using Streamlit on HuggingFace Spaces.
 
-**Result:** 
-- Achieving 66% accuracy of classification model.
 
 🔗 [Python code]
 ```python

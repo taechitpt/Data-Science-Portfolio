@@ -22,7 +22,7 @@
 | **ML / AI** | Regression, Classification, Clustering, Decision Tree, Neural Networks, Association Rule Mining|
 | **NLP** | Text Preprocessing, TF-IDF, Text Classification, Sentiment Analysis|
 | **Visualization** | Excel, Power BI|
-| **Tools** | RapidMiner, Streamlit, Hugging Face Spaces, Git/GitHub|
+| **Tools** | RapidMiner, Streamlit, Hugging Face Spaces, GitHub|
 
 ---
 

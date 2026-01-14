@@ -1,7 +1,12 @@
 # Data-Science-Portfolio
 # 🧠 Taechit's Data Science Portfolio
-👋 Hello! My name's **Taechit Khathanyaakemongkol**, Nickname: **Petong** 
+👋 Hello! *My name's* **Taechit Khathanyaakemongkol** l *Nickname*: **Petong**
 
+ 🎂*Date of birth* : 27 July 1999 l *Age*: 26 
+
+
+   
+   
 ---
 ## 🎓 Education
 *M.Sc. in Data Science*, *Thammasat University (Expected to graduate : 2026)*  

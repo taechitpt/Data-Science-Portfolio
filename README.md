@@ -19,9 +19,10 @@
 |-----------|----------------|
 | **Programming** | Python, SQL, R|
 | **Libraries** | Pandas, NumPy, scikit-learn, Matplotlib, Seaborn, ggplot2, nltk |
-| **ML / AI** | Regression, Classification, Clustering, Decision Tree, Neural Networks, Association Rule Mining, NLP|
+| **ML / AI** | Regression, Classification, Clustering, Decision Tree, Neural Networks, Association Rule Mining|
+| **NLP** | Text Preprocessing, TF-IDF, Text Classification, Sentiment Analysis|
 | **Visualization** | Excel, Power BI|
-| **Tools** | RapidMiner |
+| **Tools** | RapidMiner, Streamlit, Hugging Face Spaces, Git/GitHub|
 
 ---
 
@@ -41,7 +42,7 @@
 - The risk of heart attack varies according to age, male sex, diastolic blood pressure, and heart rate.
 
 
-🔗 [Python code]
+💬 Example of Python Code
 ```python
 from sklearn.linear_model import LogisticRegression
 import pandas as pd
@@ -80,7 +81,7 @@ plt.tight_layout()
 plt.show()
 ```
 
-### 💬 2. Trip Advisor Hotel Reviews (Academic Project)
+###  🧑‍💻2. Trip Advisor Hotel Reviews (Academic Project)
 **Tools:** RapidMiner (Text Analytics, Classification, Clustering).
 
 **Goal:** Sentiment analysis of hotel reviews in relation to rating scores using the TripAdvisor dataset from kaggle.
@@ -111,7 +112,7 @@ plt.show()
 **Result:** 
 - Achieved an accuracy of 90%.
 
-🔗 [Python code]
+💬 Example of Python Code
 ```python
 import pandas as pd 
 from sklearn.linear_model import LogisticRegression

@@ -17,13 +17,13 @@
 
 | Category | Tools / Skills |
 |-----------|----------------|
-| **Programming** | Python, SQL, R|
-| **Libraries** | Pandas, NumPy, scikit-learn, Matplotlib, Seaborn, ggplot2, nltk |
-| **ML / AI** | Regression, Classification, Clustering, Decision Tree, Neural Networks, Association Rule Mining|
-| **NLP** | Text Preprocessing, TF-IDF, Text Classification, Sentiment Analysis|
-| **Visualization** | Excel, Power BI|
-| **Tools** | RapidMiner, Streamlit, Hugging Face Spaces, GitHub|
-
+| **Programming Languages** | Python, SQL, R|
+| **Data Science & Machine Learning** | Pandas, NumPy, Scikit-learn, Regression, Classification, Clustering, Model Evaluation, Feature Engineering|
+| **NLP & Text Analytics** | Tokenization, Stopword Removal, Stemming, Lemmatization, TF-IDF, Text Classification|
+| **Data Visualization** | Power BI, Matplotlib, Seaborn, ggplot2|
+| **Tools & Databases** | MySQL, Streamlit, Hugging Face Spaces, RapidMiner, Git/GitHub, Jupyter Notebook|
+| **Statistics** | Descriptive Statistics, Hypothesis Testing, Correlation, Regression Analysis|
+| **Cloud & Deployment (Basic)** | Model Deployment with Streamlit, Hugging Face Spaces, API Integration (basic)|
 ---
 
 ## 🚀Personal Projects

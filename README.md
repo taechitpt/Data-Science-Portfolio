@@ -104,7 +104,7 @@ plt.show()
 
 **Goal:** Develop and deploy a Logistic Regression model for text sentiment classification.
 
-**Model:** 🔗 [Demo: Sentiment Classification App](https://huggingface.co/spaces/taechitpt/sentiment_analysis_app)
+**App Model:** 🔗 [Demo: Sentiment Classification App](https://huggingface.co/spaces/taechitpt/sentiment_analysis_app)
 
 **Process:**
 - Developed NLP pipeline: preprocessing, vectorization (CountVectorizer), model training.

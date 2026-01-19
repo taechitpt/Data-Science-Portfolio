@@ -112,7 +112,7 @@ plt.show()
 - Deployed model as a web service using Streamlit on HuggingFace Spaces.
   
 **Result:** 
-- Achieved an accuracy of 90%.
+- Achieved an accuracy of 70%.
 
 💬 Example of Python Code
 ```python

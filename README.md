@@ -80,7 +80,7 @@ plt.axvline(x=0, color='r',linestyle='--')
 plt.tight_layout()
 plt.show()
 ```
-
+----------------------------------------------------------------
 ###  🧑‍💻2. Trip Advisor Hotel Reviews (Academic Project)
 **Tools:** RapidMiner (Text Analytics, Classification, Clustering).
 
@@ -98,7 +98,7 @@ plt.show()
 
 
 
-
+--------------------------------------------------------------------------
 ###  🖥 3. Sentiment Analysis Model Deployment
 **Tools:** Python (scikit-learn, streamlit), HuggingFace Spaces
 

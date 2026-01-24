@@ -38,9 +38,10 @@
 - Achieved strong predictive performance through feature selection and model evaluation, supporting data-driven health insights.
   
 **Result:** 
-- In this case, the logistic regression model achieved an accuracy of 82%.
+- For the positive class, the logistic regression model obtained a recall score of 88%, demonstrating its effectiveness in identifying heart attack patients.
 - The risk of heart attack varies according to age, male sex, diastolic blood pressure, and heart rate.
-
+  
+🔗 [Python code_Risk Factors Contributing to Heart Attack](https://github.com/taechitpt/My_Portfolio/blob/main/Risk%20Factors%20Contributing%20to%20Heart%20Attack.ipynb)
 
 💬 Example of Python Code
 ```python

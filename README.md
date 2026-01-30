@@ -21,7 +21,7 @@
 | **Data Science & Machine Learning** | Pandas, NumPy, Scikit-learn, Regression, Classification, Clustering, Model Evaluation, Feature Engineering|
 | **NLP & Text Analytics** | Tokenization, Stopword Removal, Stemming, Lemmatization, TF-IDF, Text Classification|
 | **Data Visualization** | Power BI, Matplotlib, Seaborn, ggplot2|
-| **Tools & Databases** | MySQL, Streamlit, Hugging Face Spaces, RapidMiner, Git/GitHub, Jupyter Notebook|
+| **Tools & Databases** | MySQL, Streamlit(basic), Hugging Face Spaces, RapidMiner, Git/GitHub, Jupyter Notebook|
 | **Statistics** | Descriptive Statistics, Hypothesis Testing, Correlation, Regression Analysis|
 | **Cloud & Deployment (Basic)** | Model Deployment with Streamlit, Hugging Face Spaces, API Integration (basic)|
 ---

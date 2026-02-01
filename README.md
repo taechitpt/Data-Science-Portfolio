@@ -28,7 +28,7 @@
 
 ## 🚀Personal Projects
 
-### 📊 1. Risk Factors Contributing to Heart Attack (Academic Project)                       
+### 📊 1. Risk Factors Contributing to Heart Attack (*Academic Project*)                       
 **Tools:** Python (Pandas, Matplotlib, sckit-learn).
 
 **Goal:** Evaluation of a logistic regression model for predicting heart attack factors using kaggle dataset. 
@@ -82,7 +82,7 @@ plt.tight_layout()
 plt.show()
 ```
 ----------------------------------------------------------------
-###  🧑‍💻2. Trip Advisor Hotel Reviews (Academic Project)
+###  🧑‍💻2. Trip Advisor Hotel Reviews (*Academic Project*)
 **Tools:** RapidMiner (Text Analytics, Classification, Clustering).
 
 **Goal:** Sentiment analysis of hotel reviews in relation to rating scores using the TripAdvisor dataset from kaggle.

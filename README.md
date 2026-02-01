@@ -138,7 +138,23 @@ y_pred = model.predict(X_test)
 accuracy_score(y_pred,y_test) 
 ```
 
+-----
+###  📬 4. Spam Mail Classification with NLP and Machine Learning
 
+**Tools:** Python (scikit-learn, nltk) 
+
+**Goal:** To build an NLP-based model for classifying spam and non-spam emails using logistic regression.
+
+**Process:**
+
+- Developed an NLP pipeline including text preprocessing (tokenization, stemming, stopword removal), TF-IDF feature extraction, and model training.
+
+- Optimized and evaluated the model to achieve strong classification performance.
+
+**Result:** 
+- Achieved an accuracy of 88%.
+
+🔗 🔗 [Spam Mail Classification with NLP and Machine Learning_Code](https://github.com/taechitpt/My_Portfolio/blob/main/NLP_mail_classification.ipynb)
 
 
 ---

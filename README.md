@@ -139,7 +139,7 @@ accuracy_score(y_pred,y_test)
 ```
 
 -----
-###  📬 4. Spam Mail Classification with NLP and Machine Learning
+###  📬 4. Email Spam Detection using NLP and Logistic Regression
 
 **Tools:** Python (scikit-learn, nltk) 
 
